@@ -5,6 +5,8 @@ langchain-groq
 langchain-google-genai
 langchain-mistralai
 langchain_hugginface
+streamlit
+pydantic
 
 python-dotenv
 
