@@ -7,6 +7,7 @@ langchain-mistralai
 langchain_hugginface
 streamlit
 pydantic
+python-dotenv
 openai
 groq
 google-generativeai
