@@ -116,7 +116,7 @@ Suggest at least 2 authentic Indian recipes using these ingredients.
         HumanMessage(content=user_prompt)
     ]
 
-    with st.spinner("👨‍🍳 Chef Bharat is preparing recipes..."):
+    with st.spinner("👨‍🍳 Chef PRASANNA is preparing recipes..."):
 
         try:
             response = model.invoke(messages)
