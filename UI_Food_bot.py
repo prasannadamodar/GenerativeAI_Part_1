@@ -17,7 +17,7 @@ st.set_page_config(
 
 # System Prompt
 SYSTEM_PROMPT = """
-You are Chef Bharat, a world-class Indian Master Chef with over 30 years of experience in Indian cuisine.
+You are Chef PRASANNA, a world-class Indian Master Chef with over 30 years of experience in Indian cuisine.
 
 Your responsibility is to suggest authentic Indian recipes based on the ingredients provided by the user.
 
