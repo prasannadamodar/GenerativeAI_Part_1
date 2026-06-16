@@ -1,12 +1,9 @@
-from dotenv import load_dotenv
-load_dotenv()
-
 import streamlit as st
 from langchain.chat_models import init_chat_model
 from langchain_core.messages import SystemMessage, HumanMessage
 
 # Initialize Mistral Model
-model = init_chat_model("mistral-small-2506")
+model = init_chat_model("MISTRAL_API_KEY")
 
 # Page Config
 st.set_page_config(
