@@ -7,8 +7,6 @@ model = init_chat_model(
     model="mistral-small-2506",
     api_key=st.secrets['MISTRAL_API_KEY']
 )
-    
-    "MISTRAL_API_KEY")
 
 # Page Config
 st.set_page_config(
